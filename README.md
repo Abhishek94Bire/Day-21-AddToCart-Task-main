@@ -1,4 +1,4 @@
-# Day-21-AddToCart-Task
+# React- Day -2 : Intro to React Day-21-AddToCart-Task
 Kindly check "App.js", "App.css", "productDetails.json" files to verify the code.   
 The "App.js" is the main file and hold all the react-code.   
 The App.css" holds all the css.   
